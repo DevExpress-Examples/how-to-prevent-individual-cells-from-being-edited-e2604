@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/PreventIndividualCellsFromEditing/MainPage.xaml) (VB: [MainPage.xaml](./VB/PreventIndividualCellsFromEditing/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/PreventIndividualCellsFromEditing/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/PreventIndividualCellsFromEditing/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/PreventIndividualCellsFromEditing/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/PreventIndividualCellsFromEditing/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to Prevent Individual Cells From Being Edited
 
